@@ -22,6 +22,7 @@ xcuserdata/
 *.xcuserstate
 
 ## Obj-C/Swift specific
+.DS_Store
 *.hmap
 *.ipa
 *.dSYM.zip
